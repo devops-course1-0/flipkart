@@ -1,3 +1,3 @@
 hello guys
-git it very interesting
+git is very interesting
 
